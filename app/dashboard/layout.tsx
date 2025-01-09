@@ -1,4 +1,3 @@
-import { redirect } from 'next/navigation';
 import Navbar from './navbar';
 
 export default async function DashboardLayout({

@@ -9,9 +9,9 @@ const geistSans = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'LivroSaas',
+  title: 'ConnectPsico',
   description:
-    'Deixe que nós fazermos a curadoria para você. Assine nossa plataforma e receba todos os meses um ebook novo de programação.',
+    'Vamos te colocar em conexão com novos pacientes. Assine nossa plataforma e veja a facilidade em encontrar novos pacientes.',
 };
 
 export default function RootLayout({
